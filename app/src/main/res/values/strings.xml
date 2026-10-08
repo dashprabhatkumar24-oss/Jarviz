@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JARVIS Voice AI</string>
+    <string name="hud_status_idle">SYSTEM ONLINE • READY</string>
+    <string name="hud_status_listening">VOICE CAPTURE ACTIVE</string>
+    <string name="hud_status_thinking">ANALYZING INTENT</string>
+    <string name="hud_status_speaking">VOCALIZING RESPONSE</string>
+    <string name="hud_status_awaiting_confirmation">CONFIRMATION REQUIRED</string>
+    <string name="hud_status_offline">OFFLINE CORE ACTIVE</string>
+    <string name="mic_button_description">Activate voice input or interrupt assistant</string>
+    <string name="send_command_description">Execute command</string>
+    <string name="command_input_placeholder">Say \"Hey Jarvis\" or type a command...</string>
+    <string name="tab_hud">HUD</string>
+    <string name="tab_commands">Tools</string>
+    <string name="tab_permissions">Access</string>
+    <string name="tab_settings">Privacy &amp; AI</string>
+    <string name="confirm_action_title">Security Verification Required</string>
+    <string name="confirm_execute">Authorize &amp; Execute</string>
+    <string name="confirm_cancel">Abort Action</string>
+    <string name="notification_channel_name">JARVIS Foreground Voice Guard</string>
+    <string name="notification_channel_desc">Displays active status when JARVIS background wake-word or voice guard is active</string>
+    <string name="security_prototype_warning">Security Notice: API key is configured via BuildConfig for prototype operation. Do not distribute APK publicly.</string>
+</resources>
